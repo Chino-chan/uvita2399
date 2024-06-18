@@ -1,7 +1,7 @@
 
 
 <img src="https://project-imas.wiki/images/f/fd/Nana_LINE1.gif"> 
-<img src="https://i.imgur.com/pL4g2Ge.jpeg" width=250px height=250px> 
+<img src="https://i.imgur.com/eWO1wvS.png"> 
 
 <!--
 **uvita2399/uvita2399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
